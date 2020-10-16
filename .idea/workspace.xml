@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cec88101-1673-43a7-b2ad-b4e2d689d38f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1icm2QgupRNpxqe63Jlrs4B3AzP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/MultyCart/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/MultyCart/src/main/java" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/AAA/src/main" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="stepsDefenitions" />
+      <recent name="mcTestRunner" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/MultyCart/src/main/java" />
+      <recent name="$PROJECT_DIR$/Generic/src/main/java" />
+      <recent name="$PROJECT_DIR$/AAA/src/test/java" />
+      <recent name="$PROJECT_DIR$/AAA" />
+      <recent name="$PROJECT_DIR$/AAA/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TripleARunner">
+    <configuration name="Feature: TreepleAHomePage (1)" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/TreepleA/src/test/java/treepleAFeatures/TreepleAHomePage.feature" />
+      <option name="GLUE" value="stepDefenetions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="TreepleA" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: TreepleAHomePage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: TreepleAHomePage (2)" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/TreepleA/src/test/java/tripleAFeatures/TreepleAHomePage.feature" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="TreepleA" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: TreepleAHomePage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: TreepleAHomePage" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/TreepleA/src/main/java/treepleAFeatures/TreepleAHomePage.feature" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="TreepleA" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: TreepleAHomePage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AAATestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AAA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aaaTestRunner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="aaaTestRunner" />
+      <option name="MAIN_CLASS_NAME" value="aaaTestRunner.AAATestRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TripleARunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TreepleA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tripleaRunner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tripleaRunner" />
+      <option name="MAIN_CLASS_NAME" value="tripleaRunner.TripleARunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TripleARunner" />
+        <item itemvalue="Cucumber java.Feature: TreepleAHomePage (2)" />
+        <item itemvalue="Cucumber java.Feature: TreepleAHomePage (1)" />
+        <item itemvalue="Cucumber java.Feature: TreepleAHomePage" />
+        <item itemvalue="JUnit.AAATestRunner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cec88101-1673-43a7-b2ad-b4e2d689d38f" name="Default Changelist" comment="" />
+      <created>1602215046273</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602215046273</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="306" y="100" key="#Inspections" timestamp="1602215899233">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="306" y="100" key="#Inspections/0.23.1440.832@0.23.1440.832" timestamp="1602215899233" />
+    <state x="306" y="100" key="#Project_Structure" timestamp="1602545709622">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state x="306" y="100" key="#Project_Structure/0.23.1440.833@0.23.1440.833" timestamp="1602545709622" />
+    <state x="374" y="243" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602302296194">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state x="374" y="243" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.834@0.23.1440.834" timestamp="1602302296194" />
+    <state x="274" y="365" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1602814005925">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state x="274" y="364" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.23.1440.832@0.23.1440.832" timestamp="1602469757836" />
+    <state x="274" y="365" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.23.1440.834@0.23.1440.834" timestamp="1602814005925" />
+    <state x="426" y="324" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1602818492108">
+      <screen x="0" y="23" width="1440" height="835" />
+    </state>
+    <state x="426" y="323" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.23.1440.832@0.23.1440.832" timestamp="1602469759126" />
+    <state x="426" y="324" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.23.1440.834@0.23.1440.834" timestamp="1602814015283" />
+    <state x="426" y="324" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.23.1440.835@0.23.1440.835" timestamp="1602818492108" />
+    <state width="1341" height="219" key="GridCell.Tab.0.bottom" timestamp="1602823089355">
+      <screen x="0" y="23" width="1440" height="835" />
+    </state>
+    <state width="1358" height="219" key="GridCell.Tab.0.bottom/0.23.1440.830@0.23.1440.830" timestamp="1602480954495" />
+    <state width="1358" height="219" key="GridCell.Tab.0.bottom/0.23.1440.831@0.23.1440.831" timestamp="1602481187323" />
+    <state width="1358" height="219" key="GridCell.Tab.0.bottom/0.23.1440.832@0.23.1440.832" timestamp="1602544862531" />
+    <state width="1358" height="219" key="GridCell.Tab.0.bottom/0.23.1440.833@0.23.1440.833" timestamp="1602545885586" />
+    <state width="1341" height="219" key="GridCell.Tab.0.bottom/0.23.1440.834@0.23.1440.834" timestamp="1602814828225" />
+    <state width="1341" height="219" key="GridCell.Tab.0.bottom/0.23.1440.835@0.23.1440.835" timestamp="1602823089355" />
+    <state width="1358" height="219" key="GridCell.Tab.0.bottom/0.23.1440.836@0.23.1440.836" timestamp="1602557412966" />
+    <state width="1358" height="219" key="GridCell.Tab.0.bottom/0.23.1440.837@0.23.1440.837" timestamp="1602558547486" />
+    <state width="1341" height="219" key="GridCell.Tab.0.center" timestamp="1602823089354">
+      <screen x="0" y="23" width="1440" height="835" />
+    </state>
+    <state width="1358" height="219" key="GridCell.Tab.0.center/0.23.1440.830@0.23.1440.830" timestamp="1602480954495" />
+    <state width="1358" height="219" key="GridCell.Tab.0.center/0.23.1440.831@0.23.1440.831" timestamp="1602481187323" />
+    <state width="1358" height="219" key="GridCell.Tab.0.center/0.23.1440.832@0.23.1440.832" timestamp="1602544862531" />
+    <state width="1358" height="219" key="GridCell.Tab.0.center/0.23.1440.833@0.23.1440.833" timestamp="1602545885586" />
+    <state width="1341" height="219" key="GridCell.Tab.0.center/0.23.1440.834@0.23.1440.834" timestamp="1602814828225" />
+    <state width="1341" height="219" key="GridCell.Tab.0.center/0.23.1440.835@0.23.1440.835" timestamp="1602823089354" />
+    <state width="1358" height="219" key="GridCell.Tab.0.center/0.23.1440.836@0.23.1440.836" timestamp="1602557412965" />
+    <state width="1358" height="219" key="GridCell.Tab.0.center/0.23.1440.837@0.23.1440.837" timestamp="1602558547486" />
+    <state width="1341" height="219" key="GridCell.Tab.0.left" timestamp="1602823089354">
+      <screen x="0" y="23" width="1440" height="835" />
+    </state>
+    <state width="1358" height="219" key="GridCell.Tab.0.left/0.23.1440.830@0.23.1440.830" timestamp="1602480954494" />
+    <state width="1358" height="219" key="GridCell.Tab.0.left/0.23.1440.831@0.23.1440.831" timestamp="1602481187322" />
+    <state width="1358" height="219" key="GridCell.Tab.0.left/0.23.1440.832@0.23.1440.832" timestamp="1602544862530" />
+    <state width="1358" height="219" key="GridCell.Tab.0.left/0.23.1440.833@0.23.1440.833" timestamp="1602545885585" />
+    <state width="1341" height="219" key="GridCell.Tab.0.left/0.23.1440.834@0.23.1440.834" timestamp="1602814828225" />
+    <state width="1341" height="219" key="GridCell.Tab.0.left/0.23.1440.835@0.23.1440.835" timestamp="1602823089354" />
+    <state width="1358" height="219" key="GridCell.Tab.0.left/0.23.1440.836@0.23.1440.836" timestamp="1602557412965" />
+    <state width="1358" height="219" key="GridCell.Tab.0.left/0.23.1440.837@0.23.1440.837" timestamp="1602558547486" />
+    <state width="1341" height="219" key="GridCell.Tab.0.right" timestamp="1602823089354">
+      <screen x="0" y="23" width="1440" height="835" />
+    </state>
+    <state width="1358" height="219" key="GridCell.Tab.0.right/0.23.1440.830@0.23.1440.830" timestamp="1602480954495" />
+    <state width="1358" height="219" key="GridCell.Tab.0.right/0.23.1440.831@0.23.1440.831" timestamp="1602481187323" />
+    <state width="1358" height="219" key="GridCell.Tab.0.right/0.23.1440.832@0.23.1440.832" timestamp="1602544862531" />
+    <state width="1358" height="219" key="GridCell.Tab.0.right/0.23.1440.833@0.23.1440.833" timestamp="1602545885586" />
+    <state width="1341" height="219" key="GridCell.Tab.0.right/0.23.1440.834@0.23.1440.834" timestamp="1602814828225" />
+    <state width="1341" height="219" key="GridCell.Tab.0.right/0.23.1440.835@0.23.1440.835" timestamp="1602823089354" />
+    <state width="1358" height="219" key="GridCell.Tab.0.right/0.23.1440.836@0.23.1440.836" timestamp="1602557412966" />
+    <state width="1358" height="219" key="GridCell.Tab.0.right/0.23.1440.837@0.23.1440.837" timestamp="1602558547486" />
+    <state x="244" y="96" key="Maven.ArtifactSearchDialog" timestamp="1602475161727">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="244" y="96" key="Maven.ArtifactSearchDialog/0.23.1440.832@0.23.1440.832" timestamp="1602475161727" />
+    <state x="207" y="23" width="1024" height="832" key="SettingsEditor" timestamp="1602475274277">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="207" y="23" width="1024" height="832" key="SettingsEditor/0.23.1440.832@0.23.1440.832" timestamp="1602475274277" />
+    <state x="207" y="72" key="SettingsEditor/0.23.1440.833@0.23.1440.833" timestamp="1602215231844" />
+    <state x="489" y="219" key="chooseDestDirectoryDialog" timestamp="1602476414662">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="489" y="219" key="chooseDestDirectoryDialog/0.23.1440.832@0.23.1440.832" timestamp="1602476414662" />
+    <state x="360" y="267" key="com.intellij.ide.util.TipDialog" timestamp="1602215243613">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state x="360" y="267" key="com.intellij.ide.util.TipDialog/0.23.1440.833@0.23.1440.833" timestamp="1602215243613" />
+    <state x="410" y="336" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1602472719281">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="410" y="336" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.23.1440.832@0.23.1440.832" timestamp="1602472719281" />
+    <state x="83" y="133" key="new project wizard" timestamp="1602814713467">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state x="83" y="133" key="new project wizard/0.23.1440.832@0.23.1440.832" timestamp="1602470595875" />
+    <state x="83" y="133" key="new project wizard/0.23.1440.833@0.23.1440.833" timestamp="1602300924936" />
+    <state x="83" y="133" key="new project wizard/0.23.1440.834@0.23.1440.834" timestamp="1602814713467" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/NewTeamBDD$Feature__AAA_HomePage.ic" NAME="Feature: AAA_HomePage Coverage Results" MODIFIED="1602480954474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>io.cucumber.core.cli.*</FILTER>
+    </SUITE>
+  </component>
+</project>
